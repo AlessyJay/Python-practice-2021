@@ -1,0 +1,11 @@
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.exe
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.deps.json
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.runtimeconfig.json
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.runtimeconfig.dev.json
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.dll
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\bin\Debug\netcoreapp3.1\Single_Float_Project.pdb
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\obj\Debug\netcoreapp3.1\Single_Float_Project.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\obj\Debug\netcoreapp3.1\Single_Float_Project.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\obj\Debug\netcoreapp3.1\Single_Float_Project.AssemblyInfo.cs
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\obj\Debug\netcoreapp3.1\Single_Float_Project.dll
+C:\Users\Tony\source\repos\Single_Float_Project\Single_Float_Project\obj\Debug\netcoreapp3.1\Single_Float_Project.pdb

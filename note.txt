@@ -1,0 +1,30 @@
+Which router is the DR?
+ans = RB router is DR.
+
+Which router is the BDR?
+ans =  RC router is BDR
+
+What is the OSPF state of router RA?
+ans = not sure yet.
+
+
+#ExpertAI learning with Python.
+Project: Make an expert AI for self-learning and also can provide the information that users want to know, also can let users 
+teach it to learn about the capital city of the country that users wanted to know.
+
+#1st step.
+We need to have a file to keep the information with and can let it read or write it using apprend mdthod of Python.
+We need to create def to store the function and medthod inside to make it easy hen e're gonna use it.
+Create an input for users to ask about the capital city of each country.
+
+
+(Armaurd) What's the differences you see when you first arrived Poland compared to your country and Africa continent?
+(Fabrice) Why don't they believe in COVID-19? 
+- How do your country prepare for covid?
+- How about the economy status in your country.
+(Daphine) How do you see differences between your country and your neighbouring country?
+- Why is your country using US dollar?
+(Dean) How's your home town temperature like comparing to other cities, since you live near the local lake.
+- How can you promote this local lake to the world?
+
+Key Social presentation: 

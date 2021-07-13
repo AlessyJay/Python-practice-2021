@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\peera\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\peera\\.nuget\\packages"
+    ]
+  }
+}

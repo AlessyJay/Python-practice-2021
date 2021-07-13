@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parity Project", "Parity Project\Parity Project.csproj", "{B1F159C4-0126-4E3B-8543-90E199AC9A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1F159C4-0126-4E3B-8543-90E199AC9A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F159C4-0126-4E3B-8543-90E199AC9A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F159C4-0126-4E3B-8543-90E199AC9A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F159C4-0126-4E3B-8543-90E199AC9A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EDD8E7-E8C2-4609-83E1-5A73212B0329}
+	EndGlobalSection
+EndGlobal
